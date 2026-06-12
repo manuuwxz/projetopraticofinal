@@ -24,7 +24,7 @@ Antes de começar, você vai precisar ter o [Node.js](https://nodejs.org) e o [G
 ### 1. Clone este repositório
 Abra o seu terminal e digite:
 ```bash
-git clone cole-o-link-deste-repositorio-aqui.git
+git clone https://github.com/manuuwxz/projetopraticofinal.git
 ```
 
 ### 2. Acesse a pasta do projeto
