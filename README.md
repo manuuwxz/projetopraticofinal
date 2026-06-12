@@ -1,23 +1,23 @@
-# 📝 App de Lista de Tarefas (To-Do App)
+# App de Lista de Tarefas (To-Do App)
 
 Um aplicativo de lista de tarefas dinâmico e responsivo desenvolvido com **React.js**. Este projeto foi criado para aplicar conceitos modernos de desenvolvimento front-end, incluindo componentização, gerenciamento de estado e estilização dinâmica via CSS-in-JS.
 
-## ✨ Funcionalidades
+## Funcionalidades
 
-- ➕ **Adicionar tarefas:** Crie novas tarefas rapidamente.
-- ✅ **Marcar como concluída:** Risque tarefas finalizadas da sua lista.
-- 🗑️ **Remover tarefas:** Apague os itens que não precisa mais.
-- 🔍 **Filtragem inteligente:** Alterne a visualização entre *Todas*, *Ativas* e *Concluídas*.
-- 🌓 **Tema Dinâmico:** Botão para alternar perfeitamente entre os modos **Claro ☀️** e **Escuro 🌙**.
+- **Adicionar tarefas:** Crie novas tarefas rapidamente.
+- **Marcar como concluída:** Risque tarefas finalizadas da sua lista.
+- **Remover tarefas:** Apague os itens que não precisa mais.
+- **Filtragem inteligente:** Alterne a visualização entre *Todas*, *Ativas* e *Concluídas*.
+- **Tema Dinâmico:** Botão para alternar perfeitamente entre os modos **Claro ☀️** e **Escuro 🌙**.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **[React](https://react.dev/)** - Biblioteca JavaScript para construção da interface.
 - **[Vite](https://vitejs.dev/)** - Ferramenta de build super rápida.
 - **[Styled Components](https://styled-components.com/)** - Estilização baseada em componentes com suporte a temas dinâmicos.
 - **JavaScript (ES6+)** - Lógica e manipulação de arrays.
 
-## 🚀 Como executar o projeto na sua máquina
+## Como executar o projeto na sua máquina
 
 Antes de começar, você vai precisar ter o [Node.js](https://nodejs.org) e o [Git](https://git-scm.com/) instalados no seu computador.
 
@@ -43,7 +43,7 @@ npm run dev
 ```
 > O servidor iniciará localmente. Acesse `http://localhost:5173/` no seu navegador para utilizar o aplicativo.
 
-## 🗂️ Arquitetura e Estrutura de Pastas
+## Arquitetura e Estrutura de Pastas
 
 O projeto foi organizado separando claramente a lógica de interface (Componentes) das regras de interface (Estilos), facilitando a manutenção e escalabilidade do código:
 
